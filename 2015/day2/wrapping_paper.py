@@ -43,5 +43,5 @@ def ribbon():
         print(error)
 
 
-#paper()
+paper()
 ribbon()
